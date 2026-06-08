@@ -145,5 +145,5 @@ MIT License — free to use, modify, and distribute.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f1117&height=120&section=footer"/>
 
-**Built by [Dharanidharan M](https://github.com/dharani25007-code) · Karur, India 🇮🇳**
+**Built by [Dharanidharan M](https://github.com/dharani25007-code) **
 </div>
