@@ -1,0 +1,39 @@
+# ── Python ────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ── Environment & Secrets ─────────────────────────
+.env
+*.env
+!.env.example
+
+# ── Database ──────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# ── Node / Frontend ───────────────────────────────
+node_modules/
+
+# ── OS & Editor ───────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Misc ──────────────────────────────────────────
+*.log
+*.bak
+.cache/
