@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,50:6366f1,100:0f1117&height=200&section=header&text=Interview%20Simulator&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI-Powered%20Interview%20Practice%20%7C%20Adaptive%20%7C%20Full-Stack&descAlignY=60&descSize=17&animation=fadeIn"/>
-</div>
 
-<div align="center">
 
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
